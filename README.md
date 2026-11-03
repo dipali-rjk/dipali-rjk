@@ -1,4 +1,65 @@
-<!-- ═══════════════════════════════════════════════ -->
+# 👋 Hi, I'm Dipali Rajak!
+
+### 💻 Aspiring Software Developer | B.Tech Student | Web Development Enthusiast
+
+Welcome to my GitHub profile! I'm passionate about technology, programming, and building modern web applications. I love learning new skills and turning creative ideas into real-world projects.
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech 3rd Year Student
+- 🏫 Baderia Global Institute
+- 💡 Interested in Software Development & Web Technologies
+- 🌱 Currently learning React.js and JavaScript
+- 🚀 Building projects to improve my development skills
+- 🎯 Goal: Become a Professional Software Developer
+
+## 🛠️ Technical Skills
+
+**Frontend Development**
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+**Programming Languages**
+- Java
+- C
+- c++
+- java scret
+- python
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+## 📌 Featured Projects
+
+- **Web Development Projects** – Exploring modern frontend development.
+- **React Projects** – Building interactive user interfaces.
+- **Java & DSA** – Practicing programming and problem-solving.
+
+[Explore My Repositories](https://github.com/dipali-rjk?tab=repositories)
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipali-rjk&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipali-rjk&layout=compact&theme=tokyonight)
+
+## 🤝 Connect With Me
+
+- GitHub: [@dipali-rjk](https://github.com/dipali-rjk)
+
+---
+
+### 💫 Developer Mindset
+
+*"Code. Learn. Build. Repeat."*
+
+⭐ Thanks for visiting my profile!<!-- ═══════════════════════════════════════════════ -->
 <!--              DIPALI RAJAK                     -->
 <!--          GITHUB PROFILE README                -->
 <!-- ═══════════════════════════════════════════════ -->
